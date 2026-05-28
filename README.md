@@ -1,6 +1,6 @@
 # Hi, I'm Aung Ye Mun
 
-Researcher | Dentist | Scientific Software Developer
+Researcher | Dentist | AI-assisted Scientific Software Developer
 
 Developing scientific and research-oriented applications through AI-assisted development, workflow design, testing, debugging, and iterative problem-solving.
 
