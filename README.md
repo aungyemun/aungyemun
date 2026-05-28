@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Aung Ye Mun
 
-<!--
-**aungyemun/aungyemun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher | Dentist | Scientific Software Developer
 
-Here are some ideas to get you started:
+Developing scientific and research-oriented applications through AI-assisted development, workflow design, testing, debugging, and iterative problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+- Neuroimmunology
+- Aging Research
+- Peripheral Nerve Regeneration
+- Macrophage Biology
+- Stem Cell Research
+- RNA-seq & Bioinformatics
+- Regenerative Medicine
+
+---
+
+## Current Projects
+- RNA-seq Analysis Platform
+- Scientific Imaging & Video Analysis Tools
+- Offline Research Workflow Applications
+- Multi-camera Behavioral Recording System
+
+---
+
+## Tools & Technologies
+Python • R • FastAPI • React • TypeScript • Linux • Nextflow • Git
+
+---
+
+## Academic Profile
+ORCID: https://orcid.org/0000-0001-9587-6088
+
+---
+
+Copyright © 2026–Present Aung Ye Mun
