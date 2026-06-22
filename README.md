@@ -2,7 +2,7 @@
 
 Researcher | Dentist | Scientific Software Developer
 
-I develop scientific and research-oriented software for biomedical research, imaging, video analysis, data processing, and reproducible workflows. My current work combines research design, software development, AI-assisted coding, testing, debugging, and iterative problem-solving.
+I develop scientific and research-oriented software for biomedical research, imaging, video analysis, data processing, and reproducible workflows. My work combines research design, software development, AI-assisted coding, testing, debugging, and iterative problem-solving.
 
 ---
 
@@ -20,7 +20,7 @@ I develop scientific and research-oriented software for biomedical research, ima
 
 ## Current Projects
 
-- **MultiCamApp** — offline Windows multi-camera recording, metadata capture, and video verification software for educational and research use
+- **MultiCamApp** — offline Windows software for multi-camera recording, metadata capture, and video verification for educational and research use
 - RNA-seq Analysis Platform
 - Scientific Imaging & Video Analysis Tools
 - Offline Research Workflow Applications
