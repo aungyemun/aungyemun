@@ -1,12 +1,13 @@
 # Hi, I'm Aung Ye Mun
 
-Researcher | Dentist | AI-assisted Scientific Software Developer
+Researcher | Dentist | Scientific Software Developer
 
-Developing scientific and research-oriented applications through AI-assisted development, workflow design, testing, debugging, and iterative problem-solving.
+I develop scientific and research-oriented software for biomedical research, imaging, video analysis, data processing, and reproducible workflows. My current work combines research design, software development, AI-assisted coding, testing, debugging, and iterative problem-solving.
 
 ---
 
 ## Research Interests
+
 - Neuroimmunology
 - Aging Research
 - Peripheral Nerve Regeneration
@@ -18,19 +19,22 @@ Developing scientific and research-oriented applications through AI-assisted dev
 ---
 
 ## Current Projects
+
+- **MultiCamApp** — offline Windows multi-camera recording, metadata capture, and video verification software for educational and research use
 - RNA-seq Analysis Platform
 - Scientific Imaging & Video Analysis Tools
 - Offline Research Workflow Applications
-- Multi-camera Behavioral Recording System
 
 ---
 
 ## Tools & Technologies
-Python • R • FastAPI • React • TypeScript • Linux • Nextflow • Git
+
+C# / WPF • Python • R • FastAPI • React • TypeScript • Linux • Nextflow • Git
 
 ---
 
 ## Academic Profile
+
 ORCID: https://orcid.org/0000-0001-9587-6088
 
 ---
