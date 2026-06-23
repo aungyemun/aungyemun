@@ -14,6 +14,7 @@ As an early-career scientific software developer, I focus on building practical 
 - Aging Research
 - Peripheral Nerve Regeneration
 - Macrophage Biology
+- Bone Regeneration
 - Stem Cell Research
 - RNA-seq & Bioinformatics
 - Regenerative Medicine
