@@ -1,8 +1,10 @@
 # Hi, I'm Aung Ye Mun
 
-Researcher | Dentist | Scientific Software Developer
+Researcher | Dentist | Early-Career Scientific Software Developer
 
-I develop scientific and research-oriented software for biomedical research, imaging, video analysis, data processing, and reproducible workflows. My work combines research design, software development, AI-assisted coding, testing, debugging, and iterative problem-solving.
+I am a biomedical researcher and dentist developing scientific software for research imaging, video analysis, data processing, and reproducible workflows.
+
+As an early-career scientific software developer, I focus on building practical offline tools through research design, iterative testing, debugging, and AI-assisted development. My work combines biomedical research experience with software development to support reproducible and accessible research workflows.
 
 ---
 
