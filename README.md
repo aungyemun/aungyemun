@@ -35,11 +35,11 @@ My software development focuses on creating practical, reliable, privacy-conscio
 
 ### [Monograph PDF](https://github.com/aungyemun/monograph-pdf)
 
-Open-source desktop PDF software designed for offline document processing, editing, annotation, conversion, optical character recognition (OCR), and privacy-conscious workflows.
+Open-source, privacy-focused desktop PDF editor for viewing, editing, annotating, converting, organizing, and securing PDF documents offline, including optical character recognition (OCR).
 
-### [RNA-Seq Downloader](https://github.com/aungyemun/RNA_Seq_Downloader)
+### RNA-Seq Downloader
 
-Scientific software for downloading and organizing public RNA sequencing datasets from NCBI GEO and SRA, with an emphasis on data integrity, reproducibility, and cross-platform compatibility.
+Desktop application for Linux and Windows that downloads, validates, and organizes publicly available RNA sequencing datasets from NCBI GEO, SRA, and ENA, with an emphasis on data integrity and reproducibility.
 
 ### RNA-Seq Analysis Pipeline
 
@@ -47,7 +47,7 @@ Reproducible RNA sequencing analysis workflows incorporating sequencing quality 
 
 ### [MultiCamApp](https://github.com/aungyemun/MultiCamApp)
 
-Offline Windows software for multi-camera recording, metadata capture, and video verification, designed for research, laboratory, and educational applications.
+Offline multi-camera recording and video verification software for Windows, designed for research, laboratory, and educational applications.
 
 ---
 
@@ -86,9 +86,9 @@ I aim to develop scientific software that emphasizes:
 
 ## Academic & Professional Profiles
 
+* **Institution:** [National Center for Geriatrics and Gerontology (NCGG)](https://www.ncgg.go.jp/ri/lab/gero/department/neuroimmune/)
 * **ORCID:** [0000-0001-9587-6088](https://orcid.org/0000-0001-9587-6088)
 * **LinkedIn:** [Aung Ye Mun](https://www.linkedin.com/in/aungyemun/)
-* **GitHub:** [github.com/aungyemun](https://github.com/aungyemun)
 
 ---
 
